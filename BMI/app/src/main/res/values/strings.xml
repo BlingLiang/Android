@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="cm">身高(cm)</string>
+</resources>
