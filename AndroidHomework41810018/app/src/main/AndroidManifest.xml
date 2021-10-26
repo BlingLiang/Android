@@ -12,12 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name="com.swufe.NewsShowing.TestListActivity">
-
-        </activity>
-        <activity android:name="com.swufe.NewsShowing.TestListNews1">
-
-        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity android:name=".TestListActivity" />
+        <activity android:name=".TestListNews1" />
     </application>
 
 </manifest>
